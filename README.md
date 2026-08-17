@@ -4,6 +4,11 @@ A ride-sharing application developed as an academic project for the **Software A
 
 The system matches nearby drivers and passengers travelling towards compatible destinations, allowing users to create rides, receive potential matches, select matching preferences and rate other users after completing a ride.
 
+## Repositories
+
+- [Core / Domain](https://github.com/Pbtm999/Backend-Ride-Sharing-App)
+- [Web Application](https://github.com/Pbtm999/Frontend-Ride-Sharing-App)
+
 **Grade: 19/20**
 
 ## Architecture
